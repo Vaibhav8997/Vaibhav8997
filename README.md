@@ -10,17 +10,15 @@
 
 **Languages:**  
 - ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)  
-- ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+- ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
 
-**Frameworks & Libraries:**  
-- ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
-- ![Gin](https://img.shields.io/badge/Gin-00ADD8?logo=go&logoColor=white)  
-
+**Scripting:**
+* ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  
 **Databases:**  
-- ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)  
-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
+- ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+- ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
 
 **DevOps & Tools:**  
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
